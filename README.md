@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm Sanjeev Ivatury 👋
 
-<!--
-**Sanjeev501/Sanjeev501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Frontend Developer with expertise in React, JavaScript, CSS, and HTML. I love creating beautiful, responsive, and performant web applications.
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools:
+- **Frontend**: React, Redux, HTML, CSS, JavaScript, TypeScript, Tailwind CSS, Material UI
+- **Tools**: Git, Webpack, Parcel, VS Code
+- **Other**: Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Find me here:
+- Portfolio: Will update soon
+- LinkedIn: https://www.linkedin.com/in/sri-sai-sanjeev-ivatury-114832219/
+
+##
+
+- 💬 Ask me about React, Redux, HTML, CSS, JavaScript, TypeScript
+- 📫 How to reach me: saisanjeev97@gmail.com
+- ⚡ Fun fact: When I'm not building beautiful web apps, I'm probably building an even better playlist for coding.
