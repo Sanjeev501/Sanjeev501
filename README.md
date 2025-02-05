@@ -8,7 +8,7 @@ I am a passionate Frontend Developer with expertise in React, JavaScript, CSS, a
 - **Other**: Figma
 
 ## 🔗 Find me here:
-- Portfolio: Will update soon
+- Portfolio: https://sanjeev501.github.io/portfolio/
 - LinkedIn: https://www.linkedin.com/in/sri-sai-sanjeev-ivatury-114832219/
 
 ##
